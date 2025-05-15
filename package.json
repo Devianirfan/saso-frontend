@@ -7,6 +7,6 @@
     "typescript-eslint": "^8.32.1"
   },
   "scripts": {
-    "lint": "eslint 'src/**/*.{js,ts,tsx}'"
+    "lint": "eslint '**/*.{js,ts,tsx}'"
   }
 }
